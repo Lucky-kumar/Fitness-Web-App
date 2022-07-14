@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 body {
-  font-family: 'Josefin Sans';
   background-color: #FFFAFB;
 }
 
@@ -7,6 +8,8 @@ body {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+
 
 }
 
@@ -67,7 +70,7 @@ body {
   width: 400px;
   height: 445px;
   background: #fff;
-  border-top: 4px solid #FF2625;
+  border-top: 4px solid #be25ff;
   border-bottom-left-radius: 20px;
   text-decoration: none;
   display: flex;

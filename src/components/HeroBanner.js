@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box,Button,Typography } from '@mui/material';
 
-import HeroBannerImage from '../assets/images/banner2.jpg'
+import HeroBannerImage from '../assets/images/banner3.svg'
 
 const HeroBanner = () => {
   return (
@@ -16,7 +16,7 @@ const HeroBanner = () => {
         sx={{fontSize:{lg:"44px", xs:"40px"}}}
         mb="23px" mt="30px"
         >
-            Sweat, Smile <br /> and Repeat
+            Get Set Fit <br />
         </Typography >
         <Typography fontSize="22px" lineHeight="35px" mb={3}>
             Check out the most effective exercises
